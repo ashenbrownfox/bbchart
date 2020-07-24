@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bbchart/static/css/main.7ddc275d.chunk.css",
+    "main.js": "/bbchart/static/js/main.c6269d5e.chunk.js",
+    "main.js.map": "/bbchart/static/js/main.c6269d5e.chunk.js.map",
+    "runtime-main.js": "/bbchart/static/js/runtime-main.00d288ed.js",
+    "runtime-main.js.map": "/bbchart/static/js/runtime-main.00d288ed.js.map",
+    "static/js/2.6f42770e.chunk.js": "/bbchart/static/js/2.6f42770e.chunk.js",
+    "static/js/2.6f42770e.chunk.js.map": "/bbchart/static/js/2.6f42770e.chunk.js.map",
+    "index.html": "/bbchart/index.html",
+    "precache-manifest.b2f72415aef0e94aa1f1999c51bad341.js": "/bbchart/precache-manifest.b2f72415aef0e94aa1f1999c51bad341.js",
+    "service-worker.js": "/bbchart/service-worker.js",
+    "static/css/main.7ddc275d.chunk.css.map": "/bbchart/static/css/main.7ddc275d.chunk.css.map",
+    "static/js/2.6f42770e.chunk.js.LICENSE.txt": "/bbchart/static/js/2.6f42770e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/bbchart/static/media/bg.1be2d3a0.jpg",
+    "static/media/logo.png": "/bbchart/static/media/logo.3795f66d.png",
+    "static/media/spinner.gif": "/bbchart/static/media/spinner.235b9b3e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00d288ed.js",
+    "static/js/2.6f42770e.chunk.js",
+    "static/css/main.7ddc275d.chunk.css",
+    "static/js/main.c6269d5e.chunk.js"
+  ]
+}
