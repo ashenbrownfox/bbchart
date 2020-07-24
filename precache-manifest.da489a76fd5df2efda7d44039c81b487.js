@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2167f236a67a3ba4b75b26d59b3be888",
+    "revision": "148c346ea5eba6fce19e7b10be1657a4",
     "url": "/bbchart/index.html"
   },
   {
-    "revision": "186017ad656bfd65ecf7",
+    "revision": "451dc59cdef0b42ca905",
     "url": "/bbchart/static/css/main.7ddc275d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bbchart/static/js/2.6f42770e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "186017ad656bfd65ecf7",
-    "url": "/bbchart/static/js/main.c6269d5e.chunk.js"
+    "revision": "451dc59cdef0b42ca905",
+    "url": "/bbchart/static/js/main.a1edc86e.chunk.js"
   },
   {
     "revision": "97604e5dfa6ca60a904b",
